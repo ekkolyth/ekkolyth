@@ -34,39 +34,39 @@ Plus, some light experience with Go, Python, Lua, Asnyq (Worker Queues), Lua,
 
 ---
 
-## 🛠️ What I'm Building
+# 🛠️ What I'm Building
 
-### [miso](https://misojs.dev/)
+## [miso](https://misojs.dev/)
 
-##### `Go | Lipgloss (by Charm Bracelet)`
+#### `  Go | Lipgloss (by Charm Bracelet)  `
 
 A DX Tool for Typescript (and I guess Javascript) developers. Never worry about remembering which package manager you're supposed to be using ever again (and some other fun stuff, too!)
 
-### [ghostbot](https://github.com/ekkolyth/ghostbot)
+## [ghostbot](https://github.com/ekkolyth/ghostbot)
 
-##### `Tanstack Start  |  Typescript  |  Go  |  Better Auth  |  Drizzle  |  SQLC  |  Postgres`
+#### `  Tanstack Start  |  Typescript  |  Go  |  Better Auth  |  Drizzle  |  SQLC  |  Postgres  `
 
 My latest obsession. I've been teaching myself backend by developing this discord bot for my server. The Bot runs on a custom API I'm building from scratch in Go.
 
-### [create-ekko-app](https://github.com/ekkolyth/create-ekko-app)
+## [create-ekko-app](https://github.com/ekkolyth/create-ekko-app)
 
-##### `Go | Deno`
+#### `  Go | Deno  `
 
 Another small cli i maintain to make it easy to spin up apps with my favorite web stack. Initially written in Deno, but ported to Go.
 
-#### More Stuff ~
+### More Stuff ~
 
-##### [ApexFoundry.gg](https://apexfoundry.gg) - `Next.js  |  Typescript  |  Convex` - A Playground for Apex Legends Players.
+[ApexFoundry.gg](https://apexfoundry.gg) - `  Next.js  |  Typescript  |  Convex  ` - A Playground for Apex Legends Players.
 
-##### [ek(klip)se](https://github.com/ekkolyth/ekklipse) - `Tanstack Start  |  Typescript  |  Convex` - A simple pastebin for sharing between friends/devices.
+[ek(klip)se](https://github.com/ekkolyth/ekklipse) - `  Tanstack Start  |  Typescript  |  Convex  ` - A simple pastebin for sharing between friends/devices.
 
-##### [Ekko Playlist](https://github.com/ekkolyth/ekko-playlist) - `Tanstack Start | Postgres | Drizzle | Better Auth` - YouTube Playlist Management
+[Ekko Playlist](https://github.com/ekkolyth/ekko-playlist) - `  Tanstack Start | Postgres | Drizzle | Better Auth  ` - YouTube Playlist Management
 
-##### EkkoOS - `Next.js | Clerk/OIDC | Convex | Docker` - My personal productivity system app - alongside a docker network with 40+ containers. Tours available upon request! ;)
+EkkoOS - `  Next.js | Clerk/OIDC | Convex | Docker  ` - My personal productivity system app - alongside a docker network with 40+ containers. Tours available upon request! ;)
 
-##### [EkkoUI](https://github.com/ekkolyth/ui) - `Typescript | React` - A personal UI Library I'm working on to share between the apps I maintain. Building some cool theming tools I'm hoping to share soon!
+[EkkoUI](https://github.com/ekkolyth/ui) - `  Typescript | React  ` - A personal UI Library I'm working on to share between the apps I maintain. Building some cool theming tools I'm hoping to share soon!
 
-##### [Next JS/Redis Starter](https://github.com/ekkolyth/nextjs-bun-redis-convex-turborepo-starter) - Exploring replacing the built in caching from Next with Redis.
+[Next JS/Redis Starter](https://github.com/ekkolyth/nextjs-bun-redis-convex-turborepo-starter) - Exploring replacing the built in caching from Next with Redis.
 
 ---
 
