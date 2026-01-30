@@ -38,7 +38,7 @@ Plus, some light experience with Go, Python, Lua, Asnyq (Worker Queues), Lua,
 
 ## [miso](https://misojs.dev/)
 
-#### `  Go | Lipgloss (by Charm Bracelet)  `
+#### `  Go  `
 
 A DX Tool for Typescript (and I guess Javascript) developers. Never worry about remembering which package manager you're supposed to be using ever again (and some other fun stuff, too!)
 
@@ -56,15 +56,13 @@ Another small cli i maintain to make it easy to spin up apps with my favorite we
 
 ### More Stuff ~
 
-[ApexFoundry.gg](https://apexfoundry.gg) - `  Next.js  |  Typescript  |  Convex  ` - A Playground for Apex Legends Players.
+[ApexFoundry.gg](https://apexfoundry.gg) - A Playground for Apex Legends Players.
 
-[ek(klip)se](https://github.com/ekkolyth/ekklipse) - `  Tanstack Start  |  Typescript  |  Convex  ` - A simple pastebin for sharing between friends/devices.
+[ek(klip)se](https://github.com/ekkolyth/ekklipse) - A simple pastebin for sharing between friends/devices.
 
-[Ekko Playlist](https://github.com/ekkolyth/ekko-playlist) - `  Tanstack Start | Postgres | Drizzle | Better Auth  ` - YouTube Playlist Management
+[Ekko Playlist](https://github.com/ekkolyth/ekko-playlist) - YouTube Playlist Management
 
-EkkoOS - `  Next.js | Clerk/OIDC | Convex | Docker  ` - My personal productivity system app - alongside a docker network with 40+ containers. Tours available upon request! ;)
-
-[EkkoUI](https://github.com/ekkolyth/ui) - `  Typescript | React  ` - A personal UI Library I'm working on to share between the apps I maintain. Building some cool theming tools I'm hoping to share soon!
+[EkkoUI](https://github.com/ekkolyth/ui) - A personal UI Library I'm working on to share between the apps I maintain. Building some cool theming tools I'm hoping to share soon!
 
 [Next JS/Redis Starter](https://github.com/ekkolyth/nextjs-bun-redis-convex-turborepo-starter) - Exploring replacing the built in caching from Next with Redis.
 
