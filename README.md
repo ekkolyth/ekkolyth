@@ -42,7 +42,7 @@ Plus, some light experience with Go, Python, Lua, Asnyq (Worker Queues), Lua,
 
 A DX Tool for Typescript (and I guess Javascript) developers. Never worry about remembering which package manager you're supposed to be using ever again (and some other fun stuff, too!)
 
-## [ghostbot](https://github.com/ekkolyth/ghostbot)
+## [ekko-bot](https://github.com/ekkolyth/ekko-bot)
 
 #### `  Tanstack Start  |  Typescript  |  Go  |  Better Auth  |  Drizzle  |  SQLC  |  Postgres  `
 
