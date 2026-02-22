@@ -1,4 +1,4 @@
-import type { Metadata } from 'next';
+import type { Metadata, Viewport } from 'next';
 import { Inter } from 'next/font/google';
 import { Analytics } from '@vercel/analytics/next';
 import './globals.css';
@@ -17,11 +17,16 @@ const siteDescription =
 const siteURL = 'https://ekkolyth.com';
 const siteImage = `${siteURL}/og-image.png`;
 
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 1,
+  userScalable: false,
+};
+
 export const metadata: Metadata = {
   title: siteTitle,
   description: siteDescription,
-  viewport:
-    'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no',
   icons: {
     icon: [
       { url: '/favicon.ico', type: 'image/x-icon' },
