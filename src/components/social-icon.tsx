@@ -7,7 +7,7 @@ import {
     FaGithub,
 } from 'react-icons/fa'
 import { MdEmail } from 'react-icons/md'
-import React from 'react'
+import type React from 'react'
 
 type IconName =
     | 'twitch'
