@@ -13,24 +13,25 @@ I'm a full-stack creative living at the intersection of **design, code, and stor
 - Storybook/Chromatic
 - Adobe CC
 
-🧑‍💻 **Front-End Development** - My current favorite tools:
+🧑‍💻 **Software Development** - My current favorite tools:
 
 - Tanstack Start/Router (React)
 - Next.js (React)
 - TypeScript
+- Go
+- Lua
 - Convex
-- Drizzle
+- Drizzle / Postgres
 
-&& whatever else has my fancy that day (as i'm typing this, it's electron. I just made a TSRouter/Electron starter - [check it out!](https://github.com/mikekenway/electron-tanstack-starter))
+&& whatever else has my fancy that day (as i'm typing this, it's electron. I just made a TanStack Router/Electron starter - [check it out!](https://github.com/ekkolyth/tanstack-electron.git)). Working on several personal projects using this package that I'm really excited about.
 
 - 🛠️ **Infra & IT** — keeping my clients operating at the speed of Windows Server 2016. Experience with:
+- Linux
 - Server Administration (Linux / Windows / Mac)
-- Linux Admin
+- Network Admin (Unifi)
 - Docker
 - Github Actions
 - npm Publishing
-
-Plus, some light experience with Go, Python, Lua, Asnyq (Worker Queues), Lua,
 
 ---
 
@@ -42,27 +43,19 @@ Plus, some light experience with Go, Python, Lua, Asnyq (Worker Queues), Lua,
 
 A DX Tool for Typescript (and I guess Javascript) developers. Never worry about remembering which package manager you're supposed to be using ever again (and some other fun stuff, too!)
 
-## [ekko-bot](https://github.com/ekkolyth/ekko-bot)
+## [ek(klip)se](https://github.com/ekkolyth/ekklipse)
 
-#### `  Tanstack Start  |  Typescript  |  Go  |  Better Auth  |  Drizzle  |  SQLC  |  Postgres  `
+#### ` Typescript | Convex | Docker `
 
-My latest obsession. I've been teaching myself backend by developing this discord bot for my server. The Bot runs on a custom API I'm building from scratch in Go.
+A simple note sharing app. I use this to quickly share code and notes with friends and coworkers, and pass information quickly between devices. Host in your own Docker Lab. 
 
-## [create-ekko-app](https://github.com/ekkolyth/create-ekko-app)
-
-#### `  Go | Deno  `
-
-Another small cli i maintain to make it easy to spin up apps with my favorite web stack. Initially written in Deno, but ported to Go.
-
-### More Stuff ~
+## More Stuff
 
 [ApexFoundry.gg](https://apexfoundry.gg) - A Playground for Apex Legends Players.
 
-[ek(klip)se](https://github.com/ekkolyth/ekklipse) - A simple pastebin for sharing between friends/devices.
+[Dump](https://github.com/ekkolyth/dump) - A simple CLI to "dump" SD Cards (or any storage device) onto another storage device. Mac/Linux, supports Internal, External, and Mounted Network Drives.
 
-[Ekko Playlist](https://github.com/ekkolyth/ekko-playlist) - YouTube Playlist Management
-
-[EkkoUI](https://github.com/ekkolyth/ui) - A personal UI Library I'm working on to share between the apps I maintain. Building some cool theming tools I'm hoping to share soon!
+[Ekko Patcher](https://github.com/ekkolyth/ekko-patcher) - A fork of RomPatcher.js, running Cross Platform on Electron. 
 
 [Next JS/Redis Starter](https://github.com/ekkolyth/nextjs-bun-redis-convex-turborepo-starter) - Exploring replacing the built in caching from Next with Redis.
 
