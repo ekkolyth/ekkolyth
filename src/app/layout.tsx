@@ -3,14 +3,12 @@ import { Inter } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
-// 1. Import Inter and assign to a CSS variable
 const inter = Inter({
     subsets: ['latin'],
     variable: '--font-inter',
     display: 'swap',
 })
 
-// 2. Editable metadata block
 const siteTitle = 'Ekkolyth'
 const siteDescription =
     "Hey! I'm Ekko. I stream and stuff, and you're welcome here <3"
@@ -53,7 +51,6 @@ export const metadata: Metadata = {
     metadataBase: new URL(siteURL),
 }
 
-// 3. Apply font to <body>
 export default function RootLayout({
     children,
 }: Readonly<{
