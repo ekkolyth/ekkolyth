@@ -2,9 +2,8 @@
     "name": "@ekko/ekkolyth",
     "private": true,
     "scripts": {
-        "dev": "next dev --turbopack --port 3003",
+        "dev": "next dev --turbopack --port 3005",
         "build": "next build --turbopack",
-        "start": "next start --port 3003",
         "lint": "bunx biome lint .",
         "typecheck": "tsc --noEmit"
     },
