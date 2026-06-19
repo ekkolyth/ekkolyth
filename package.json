@@ -1,5 +1,5 @@
 {
-    "name": "@ekko/ekkolyth",
+    "name": "ekkolyth",
     "private": true,
     "scripts": {
         "dev": "next dev --turbopack --port 3005",
