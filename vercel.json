@@ -1,4 +1,5 @@
 {
     "$schema": "https://openapi.vercel.sh/vercel.json",
-    "ignoreCommand": "bash ../../scripts/vercel/query-affected.sh ekkolyth"
+    "ignoreCommand": "bash ../../scripts/vercel/query-affected.sh ekkolyth",
+    "installCommand": "cd ../.. && bun install --filter 'ekkolyth...'"
 }
