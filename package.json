@@ -4,7 +4,10 @@
     "scripts": {
         "ekkolyth": "next dev --turbopack --port 3005",
         "build": "next build --turbopack",
-        "lint": "bunx biome lint .",
+        "lint": "bunx --bun @biomejs/biome check .",
+        "lint-fix": "bunx --bun @biomejs/biome check --write .",
+        "format": "bunx --bun @biomejs/biome format .",
+        "format-fix": "bunx --bun @biomejs/biome format --write .",
         "typecheck": "tsc --noEmit"
     },
     "dependencies": {
