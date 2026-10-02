@@ -1,13 +1,13 @@
+import type React from 'react'
 import {
-    FaTwitch,
-    FaYoutube,
-    FaTiktok,
-    FaTwitter,
-    FaInstagram,
     FaGithub,
+    FaInstagram,
+    FaTiktok,
+    FaTwitch,
+    FaTwitter,
+    FaYoutube,
 } from 'react-icons/fa'
 import { MdEmail } from 'react-icons/md'
-import type React from 'react'
 
 type IconName =
     | 'twitch'
@@ -40,11 +40,11 @@ export function SocialIcon({ icon, href, ariaLabel }: SocialIconProps) {
 
     return (
         <Wrapper
-            href={href}
-            className='bg-zinc-200 rounded-full p-3 hover:bg-indigo-200 transition-all duration-200'
-            target={href ? '_blank' : undefined}
-            rel={href ? 'noopener noreferrer' : undefined}
             aria-label={ariaLabel}
+            className='bg-zinc-200 rounded-full p-3 hover:bg-indigo-200 transition-all duration-200'
+            href={href}
+            rel={href ? 'noopener noreferrer' : undefined}
+            target={href ? '_blank' : undefined}
         >
             <Icon className='text-zinc-800 size-5' />
         </Wrapper>

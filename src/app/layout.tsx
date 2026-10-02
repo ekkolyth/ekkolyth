@@ -1,6 +1,6 @@
+import { Analytics } from '@vercel/analytics/next'
 import type { Metadata, Viewport } from 'next'
 import { Inter } from 'next/font/google'
-import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 const inter = Inter({
@@ -57,7 +57,7 @@ export default function RootLayout({
     children: React.ReactNode
 }>) {
     return (
-        <html lang='en' className='h-full w-full overflow-x-hidden'>
+        <html className='h-full w-full overflow-x-hidden' lang='en'>
             <body
                 className={`${inter.variable} font-sans antialiased h-full w-full overflow-x-hidden m-0 p-0`}
             >
